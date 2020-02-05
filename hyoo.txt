@@ -1,0 +1,13 @@
+<span id="a">thomas.weiss@hyoo</span>:<span id="b">~</span><span id="c">$</span> cd hyoo/<!-- kjsdfhkjdhsfkjdshfkj -->About_Thomas_Weiss
+<span id="a">thomas.weiss@hyoo</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->hyoo.txt<br/><br/>
+My favorite code quote, "<span id="k">You build it You run it!</span>". <!-- sjkfhskjf -->
+
+Hey There! I am Thomas Weiss.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently a FREELANCE DevOps Engineer in Paris (France).</p>
+<p> I have worked in fields like Web Development, Infrastructure as Code and Kubernetes.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>I might love Kubernetes but I don't consider (yet) that it's the silver bullet that resolves everything. <br><br><br>Do you want to see my résumé? <a href="https://www.linkedin.com/in/iam-thomas-weiss/"> Read it on Linkedin</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> You can visit my other profiles, here: <br> <a href="https://gitlab.com/Webgardener">Gitlab</a> <br> <a href="https://github.com/webgardener">GitHub</a> <br></p>
+
+If you would like to get in touch<!-- slightdelayhere-->, feel free to contact me on <a href="https://www.linkedin.com/in/iam-thomas-weiss/">LinkedIn<a/>.
+
+<p>Cheers!</p>
+<span id="a">thomas.weiss@hyoo</span>:<span id="b">~</span><span id="c">$</span> exit
